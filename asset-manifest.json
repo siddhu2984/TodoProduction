@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a3399f73.css",
+    "main.js": "/static/js/main.8a1b8fb8.js",
+    "static/js/453.ac79db8d.chunk.js": "/static/js/453.ac79db8d.chunk.js",
+    "static/media/brandi-redd-aJTiW00qqtI-unsplash.jpg": "/static/media/brandi-redd-aJTiW00qqtI-unsplash.3a4d86c830ba66f43078.jpg",
+    "index.html": "/index.html",
+    "main.a3399f73.css.map": "/static/css/main.a3399f73.css.map",
+    "main.8a1b8fb8.js.map": "/static/js/main.8a1b8fb8.js.map",
+    "453.ac79db8d.chunk.js.map": "/static/js/453.ac79db8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3399f73.css",
+    "static/js/main.8a1b8fb8.js"
+  ]
+}
